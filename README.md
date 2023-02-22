@@ -1,10 +1,12 @@
 # MLB Player Unique Identifier Equivalencies
 Python Jupyter Notebook that produces a .csv file showing equivalent 2022 MLB player unique identifers for Baseball Reference and RetroSheet
 
-Thank you for showing interest in my work! Currently this is a working draft, in the near future I would like to update this notebook to be more clear and concise.
+Thank you for showing interest in my work!
 
-As it stands currently, I hope this project helps you to understand my thought process and technical skill.
+I hope this project helps you to understand my thought process and technical skill. Currently this is a working draft, in the near future I would like to update this notebook to be more clear and concise. I would also like to edit the code and directory structure to consoldate the extraneous files and highlight the final product.
 
-Also, I hope that anyone who needs this infomation (Baseball Reference IDs matched with RetroSheet IDs) is served well by my work as well. 
+The final result is a table (.csv file) that has a row for every 2022 MLB player with their Name, Baseball Reference ID, and RetroSheet ID. https://github.com/annaraeh/mlb_uniqueid_equivalencies/blob/main/2022_MLBUniqueIdentiferEquivalencies_BaseballReferenceRetroSheet.csv
+
+I also hope that anyone who needs this infomation is served well by my work here.
 
 Happy 2023, Go Giants! <3
